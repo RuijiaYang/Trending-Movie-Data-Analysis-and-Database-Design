@@ -1,7 +1,9 @@
 # Trending-Movie-Data-Analysis-and-Database-Design
 
 ## Intro
-Our database project is in the field of movie and the specific perspective is 1000 high rated movies in the last ten years.
+This is a group project by my classmates Mengyue Xie and me. The aim of our project is to create a movie database which is fit for future data analysis. 
+
+Our database project is in the field of movie and the specific perspective is 1000 high rated movies in the last ten years. We choose to analyze movies since the movie industry is a popular area with tremendous business potential in a highly advanced society.
 
 We use movie names as keywords to scrape tweets from social network like Twitter in order to get information like audience information (user who post relative posts about specific movie) and then this data can be used to analyze audience distribution condition, audience’s influence, etc. Also, the tag information will help us to define the movie’s influence and different views towards it. 
 
